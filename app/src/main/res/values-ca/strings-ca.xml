@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nombres primers</string>
+    <string name="explicacion">Has de introduir una posició i apretar el botó calcular i et mostrarem el nombre primer que es troba en aquesta posició.</string>
+    <string name="aviso">Has de introduir un nombre enter, positiu i que sigui a partir de 1</string>
+    <string name="posicion">Posició</string>
+    <string name="resultado">Resultat</string>
+    <string name="calcular">Calcular</string>
+    <string name="result1">El</string>
+    <string name="result2">nombre primer es el</string>
+</resources>

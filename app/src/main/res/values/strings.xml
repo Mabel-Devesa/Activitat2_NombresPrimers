@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Numeros primos</string>
+    <string name="explicacion">Debes introducir una posicion y pulsar el boton calcular y te mostraremos el numero primo que se encuentra en esta posicion.</string>
+    <string name="aviso">Debes introducir un numero entero, positivo y que sea a partir de 1</string>
+    <string name="posicion">Posicion</string>
+    <string name="resultado">Resultado</string>
+    <string name="calcular">Calcular</string>
+    <string name="result1">El</string>
+    <string name="result2">numero primo es el</string>
+</resources>

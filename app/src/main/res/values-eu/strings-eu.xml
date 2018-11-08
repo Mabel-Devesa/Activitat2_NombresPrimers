@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lehen zenbakiak</string>
+    <string name="explicacion">Posizio bat sartu behar duzu eta sakatu kalkulatu botoia eta posizio honetan dagoen zenbaki lehenena erakutsiko dizugu.</string>
+    <string name="aviso">Zenbaki oso bat positiboa eta 1etik sartu behar duzu</string>
+    <string name="posicion">Posizio</string>
+    <string name="resultado">Emaitza</string>
+    <string name="calcular">Kalkulatu</string>
+    <string name="result1">Du</string>
+    <string name="result2">zenbaki lehenena da</string>
+</resources>

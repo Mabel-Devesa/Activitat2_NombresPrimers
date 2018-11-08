@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prime numbers</string>
+    <string name="explicacion">You must enter a position and press the calculate button and we will show you the prime number that is in this position.</string>
+    <string name="aviso">You must enter a integer number, positive and that is from 1</string>
+    <string name="posicion">Position</string>
+    <string name="resultado">Result</string>
+    <string name="calcular">Calculate</string>
+    <string name="result1">The</string>
+    <string name="result2">prime number is the</string>
+</resources>
